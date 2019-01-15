@@ -10,7 +10,3 @@ Guess Number is a simple game in this the winner is one who choose right number 
 <img src="Images/lower.png" height="520"></img>
 <img src="Images/higher.png" height="520"></img>
 <img src="Images/found.png" height="520"></img>
-
-# How to use?
-- Go to app->build->outputs->apk->debug
-- copy the "apk-debug.apk" file in your phone and install
